@@ -4,6 +4,8 @@
 | :---: | :---: | :---: |
 | HUAWEI MateBook X Pro|AX211|无|
 
+## <center><font face="楷体" size=3>成果展示</font></center>
+![pAuaFDs.jpg](https://s21.ax1x.com/2024/09/15/pAuaFDs.jpg)
 ## <center><font face="仿宋" font color=red size=3>PS:由于装20.04时网卡无法驱动 在升级内核及安装iwlwifi后仍然如此，遂装了22.04</font></center>
 ## <center><font face="楷体" size=3>以下为安装流程汇报</font></center>
 ### 一、启动盘制作
